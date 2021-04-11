@@ -1,0 +1,8 @@
+{
+  "welcome": "Invoering",
+  "description": {
+    "part1": "Dit is <1>de eerste</1> reactietekst",
+    "part2": "Dit is een tweede reactietekst",
+    "part3": "Mijn naam is <1>{{name}}</1>"
+  }
+}

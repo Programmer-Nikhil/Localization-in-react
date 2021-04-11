@@ -1,0 +1,8 @@
+{
+  "welcome": "Introduction",
+  "description": {
+    "part1": "This is <1>first</1> react text",
+    "part2": "This is second react text",
+    "part3": "My name is <1>{{name}}</1>"
+  }
+}
